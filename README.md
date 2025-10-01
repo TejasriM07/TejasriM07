@@ -49,7 +49,7 @@ My proudest project - a comprehensive digital library management system built wi
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/tejasri-m-985631339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TejasriM07)
 
 </div>
