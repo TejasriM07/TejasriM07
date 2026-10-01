@@ -109,7 +109,7 @@ I am open to connecting with fellow developers, collaborating on meaningful proj
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejasri-m-985631339)
 - 🐙 [GitHub](https://github.com/TejasriM07)
-- 🧩 LeetCode
+- 🧩 [LeetCode](https://leetcode.com/u/TejasriM_07/)
 - 📧 [tejasriteja0700@gmail.com](mailto:tejasriteja0700@gmail.com)
 
 ---
